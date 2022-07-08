@@ -1,0 +1,104 @@
+  .icono{
+    width: 25px;
+    height:25px;
+  }
+  .icono2{
+    width: 25px;
+    height:25px;
+  }
+  .icono3{
+    width: 30px;
+    height:25px;
+  }
+  p{
+    font-size: 35px;
+    font-family:fantasy;
+  }
+ img{
+  margin-left: 69px;
+  width: 250px;
+  height: 200px;
+
+ }
+ .logo{
+  background-color: #2DE072;
+
+ }
+ body html{
+  width:  100% ;
+  height: 100% ;
+  background-color: red;
+ }
+ .footer{
+  background-color:#2FED78;
+  transition: none;
+ }
+.camisa{
+  width: 250px;
+  height: 250px;
+}
+.roa{
+  width: 250px;
+  height: 250px;
+}
+
+
+body{
+  width: 100%;
+  height: 100%;
+
+}
+.facebook
+{
+width: 40px;
+height: 40px;
+}
+
+
+.google
+{
+  width: 35px;
+  height: 40px;
+}
+
+.paypal
+{
+  width: 110px;
+  height: 110px;
+}
+
+.tarjetas
+{
+  width: 300px;
+  height: 110px;
+}
+body
+{
+    background: #59ff59;
+    background: linear-gradient(to right, #eff1ed, #dfe6df);
+}
+
+
+
+.bg
+{
+  background-image: url(/assets/images/loginVENDEDOR.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 800px;
+  height: 850px;
+}
+.bg2
+{
+  background-image: url(/assets/images/loginCOM.jpg);
+  background-position: center center;
+  width: 800px;
+  height: 850px;
+}
+
+
+.visa
+{
+  width: 170px;
+  height: 70px;
+}
